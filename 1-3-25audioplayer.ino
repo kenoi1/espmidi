@@ -29,8 +29,8 @@
 
 Audio audio;
 WiFiMulti wifiMulti;
-String ssid =     "Ssl2021";
-String password = "dereklindevinlinseanlintinawu";
+String ssid =     "XXXXXXXXXXX";
+String password = "XXXXXXXX";
 
 
 void setup() {
